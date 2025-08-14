@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+bitsandbytes
+streamlit
+speechrecognition
+pyttsx3
+huggingface_hub
